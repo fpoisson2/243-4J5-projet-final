@@ -1,6 +1,6 @@
 # 243-4J5 — Projet final Hydro-Limoilou (semaines 12 à 15)
 
-Point de départ du projet final du cours 243-4J5-LI – Objets connectés, Cégep Limoilou.
+Point de départ du projet final du cours 243-4J5-LI – Objets connectés, Cégep Limoilou. Le matériel du cours est sur le [site du cours](https://4j5.ve2fpd.com/).
 
 | Dossier | Utilisation |
 |---------|-------------|
